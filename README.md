@@ -1,1 +1,0 @@
-# Imgae-Copyright-Detection
